@@ -1,1 +1,2 @@
-Hello! This is my second project, hope you like it.
+Hello! 
+This is my second project named CodeCraft, a website entirely made from HTML & CSS to try to teach people the basics of the two styling languages. 
